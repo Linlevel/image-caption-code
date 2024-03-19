@@ -8,9 +8,6 @@
 
 - Juntao Hu, You Yang, Yongzhi An, Lu Yao. "**Dual-Spatial Normalized Transformer for image captioning**". [paper](https://doi.org/10.1016/j.engappai.2023.106384) [code](https://github.com/TBI805/DSNT)
 
-##### International Journal of Multimedia Information Retrieval 
-
-- Zetao Jiang, Xiuxian Wang, Zhongyi Zhai, Bo Cheng. "**LG-MLFormer: local and global MLP for image captioning**". [paper](https://doi.org/10.1007/s13735-023-00266-9) [code](https://github.com/wxx1921/LGMLFormer-local-and-global-mlp-for-image-captioning)
 ##### Pattern Recognition 
 
 - Yiwei Ma, Jiayi Ji, Xiaoshuai Sun, et al. "**Towards local visual modeling for image captioning**". [paper](https://doi.org/10.1016/j.patcog.2023.109420) [code](https://github.com/xmu-xiaoma666/LSTNet)
