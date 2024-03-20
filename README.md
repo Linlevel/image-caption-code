@@ -6,7 +6,7 @@
 - Hao Wang, Libo Zhang, Heng Fan, Tiejian Luo. "**Collaborative three-stream transformers for video captioning**". [paper](https://doi.org/10.1016/j.cviu.2023.103799) [code](https://github.com/wanghao14/COST)
 ##### Engineering Applications of Artificial Intelligence 
 
-- Juntao Hu, You Yang, Yongzhi An, Lu Yao. "**Dual-Spatial Normalized Transformer for image captioning**". [paper](https://doi.org/10.1016/j.engappai.2023.106384) [code](https://github.com/TBI805/DSNT)
+- Juntao Hu, You Yang, Yongzhi An, Lu Yao. "**Dual-Spatial Normalized Transformer for image captioning**". [paper](https://doi.org/10.1016/j.engappai.2023.106384) [code](https://github.com/TBI805/DSNT):star:
 
 ##### Pattern Recognition 
 
